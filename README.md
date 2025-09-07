@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intuitas AI - Intelligent Document Assistant
 
 A production-ready AI-powered document analysis and Q&A system built with Streamlit, LangChain, and Google Gemini. Features multiple modes for different use cases including general chat, study assistance, research analysis, and journaling.
@@ -78,3 +79,7 @@ pytest tests/test_pipeline.py
 ---
 
 **Ready to hack! 🚀**
+=======
+# Q-A-Intuitus
+HCL_Hackathon project
+>>>>>>> 9b2093934fab34fb6989d0c50f89ce0924d0085f
